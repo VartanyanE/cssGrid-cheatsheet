@@ -1,1 +1,1 @@
- <img src="./readme.png" alt="css grid"  width="1200" height="550px"/>
+ <img src="./readme.png" alt="css grid"  width="1600" height="850px"/>
